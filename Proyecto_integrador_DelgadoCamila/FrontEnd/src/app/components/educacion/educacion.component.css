@@ -1,11 +1,17 @@
 .row{
     padding: 20px;
+    border: solid blueviolet 3px;
+    margin: 15px
 }
 
 div{
-    background-color: #a1b5cb;
+    background-color: #d3b3e4;
 }
 
 h1,h3{
     display: inline;
+}
+
+#descripcionEdu{
+    font-size: 20px;
 }

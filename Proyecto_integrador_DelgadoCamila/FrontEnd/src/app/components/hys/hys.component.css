@@ -1,4 +1,6 @@
 .row{
-    background-color: #a1b5cb;
+    background-color: #d3b3e4;
     padding: 20px;
+    border: solid blueviolet 3px;
+    margin: 15px
 }

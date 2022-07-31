@@ -1,7 +1,10 @@
 .row{
     padding: 20px;
-    background-color: #a1b5cb;
+    background-color: #d3b3e4;
+    border: solid blueviolet 3px;
+    margin: 15px
 }
+
 
 .contenedor{
     width: auto;
@@ -16,6 +19,12 @@
 /*no me funciono este img pero el objetivo era ponerle una sombra de fondo a la imagen del proyecto realizado*/
 .img-proyecto{
     box-shadow: 100px 10px 30px #da141400;
+    height: 150px;
+    width: 290px;
 
 
+}
+
+#descripcionCurso{
+    font-size: 20px;
 }
