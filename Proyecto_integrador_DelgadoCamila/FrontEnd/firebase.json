@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/proyecto-integrador-delgado-camila",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
